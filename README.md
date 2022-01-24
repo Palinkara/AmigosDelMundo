@@ -1,31 +1,31 @@
 # AmigosDelMundo
 Un sitio para presentar nuestra OnlineComunidad - los Amigos del Mundo! Conectamos el mundo.
 
-(Plantilla para la creación de un proyecto en ideapolis)
-
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
 ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
 
 ----
 
-**Titulo** : _______
+**Titulo** : Amigos Del Mundo
 
-**Autor(es)** ______________
+**Autor(es)** Bin Liu, Plácido Omar Córcega Caraballo, Polina Rajko
 
-**Resumen** : _________
+**Resumen** : ¿Te sientes un poco perdido? ¿Y quieres hablar con personas del todo el mundo? ¿Te gustaría conocer gente, formar amistades y aprender sobre otros países en el mundo del Covid? ¡Nosotros lo hacemos posible! 
+Nosotros somos el equipo "Amigos Del Mundo" y nuestro objetivo es conectar gente. Nosotros queremos hacer posible conectar con gente en este tiempo duro y crear amistades para toda la vida.
+Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistades internacionales - "Amigos del Mundo" es vuestra solución.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** : Conectamos el mundo - dos amigos a la vez.
 
-**Hashtag**  ___
+**Hashtag**  #ConnectTheWorld; #AmigosDelMundo; #AmigosInternacionales; #Conectate
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** : CC (probablemente, pero tiene que ser revisado)   (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2021
+**Fecha** : 01/2022
 
-**Medios** (donde se tiene presencia): 
+**Medios** : Instagram, Twitter, Twitch, Discord
 
 
 *  :octocat: (github url) 
