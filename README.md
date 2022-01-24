@@ -15,7 +15,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 Nosotros somos el equipo "Amigos Del Mundo" y nuestro objetivo es conectar gente. Nosotros queremos hacer posible conectar con gente en este tiempo duro y crear amistades para toda la vida.
 Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistades internacionales - "Amigos del Mundo" es vuestra solución.
 
-**logotipo** :  ![Amigos Del Mundo](./blob/main/Amigos.png)
+**logotipo** :  ![Amigos Del Mundo](./Amigos.png)
 
 **Slogan** : Conectamos el mundo - dos amigos a la vez.
 
