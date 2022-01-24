@@ -32,7 +32,10 @@ Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistade
 * Twitter 
 * ... 
 
-**Nuestra misión y historia** : Cuando nos hemos encontrado en nuestro grupo, fuimos un poco perdido. ¿Qué proyecto hacemos? ¿Qué comunidad podemos crear y qué valor podemos dar a la sociedad? Mucho tiempo hemos pasado juntos sin saber eso. Hasta... hasta el momento cuando hemos hecho un pequeño juego de asociación. ¿Lo que hemos encontrado jugandolo? Somos todos muy idealistas, queremos cambiar el mundo y ayudar la gente. Además somos un equipo muy internacional - Asia, Latino America, Europa - tenemos tres continentes en nuestro equipo.
+---
+
+### Nuestra misión y historia
+Cuando nos hemos encontrado en nuestro grupo, fuimos un poco perdido. ¿Qué proyecto hacemos? ¿Qué comunidad podemos crear y qué valor podemos dar a la sociedad? Mucho tiempo hemos pasado juntos sin saber eso. Hasta... hasta el momento cuando hemos hecho un pequeño juego de asociación. ¿Lo que hemos encontrado jugandolo? Somos todos muy idealistas, queremos cambiar el mundo y ayudar la gente. Además somos un equipo muy internacional - Asia, Latino America, Europa - tenemos tres continentes en nuestro equipo.
 
 Y basado en hesto hemos comenzado a discutir que podemos hacer. ¿Qué se puede hacer con un equipo tan internacional, tan motivado, tan idealista? 
 
