@@ -51,6 +51,26 @@ La comunidad virtual "Amigos Del Mundo", una comunidad que, como decimos nostros
 
 Muchas gracias por su atención.
 
+
+---
+
+### Descripción y acerca de nostros
+Vale, ahora vos hemos explicado qué es la nuestra misión, de dónde proviene nuestra idea y qué es nuestro objetive - para nosotros y el mundo.
+¿Pero quién somos? 
+Nuestro equipo consiste de Bin Liu, Plácido Omar Córcega Caraballo y Polina Rajko y nos hemos encontrado en el Máster de Gestión y Tecnologías de Procesos de Negocio de la Universidad de Granada.
+Desde el primer momento sabimos que somos un equipo muy internacional, con muchos intereses y un objetivo común: Aprender más sobre el mundo y las culturas.
+En nuestro caso hemos decidido de "compartir" el mundo entre nosotros tres:
+Bin Liu es de Asia, Plácido de la America Latina y Polina de Europa.
+Basado en eso hemos comenzado ha pensar cómo crear nuestra comunidad y hemos visto, que ya tenemos todo lo que necesitamos:
+A Bin Liu le gusta programar, a Plácido le gusta el aprendizaje y aprender sobre el aprendizaje y a Polina le gusta escribir y conectar con gente.
+
+Después de compartir las responsabilidades, no se quedó much a planificar:
+Hemos comenzado con la creación de nuestra Comunidad. ¿Y ahora?
+Ahora estamos aquí y podemos presentaros que hemos creado:
+Una comunidad que va a conectar el mundo y dar la posibilidad de intercambiarse, de compartir y de aprender.
+
+¡Conectamos el mundo todos juntos!
+
 --- 
 
 ### Metodología
