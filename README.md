@@ -99,7 +99,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido
 
-[Trello](./Trello.png)
+![Trello](./Trello.png)
 
 ### Etapa 1: Ideación de proyecto 
 
