@@ -96,10 +96,16 @@ Una comunidad que va a conectar el mundo y dar la posibilidad de intercambiarse,
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+La Ideación (o mejor: Los cinco pasos de Design Thinking) se han hecho en la clase presencial de la asignatura 24: "Inteligencia colectiva y la formación en las empresas".
+
+El documento puede encontrarse en:
+
+
+
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
