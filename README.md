@@ -102,7 +102,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 La Ideación (o mejor: Los cinco pasos de Design Thinking) se han hecho en la clase presencial de la asignatura 24: "Inteligencia colectiva y la formación en las empresas".
 
-El documento puede encontrarse en: [Aqui](Proyecto.25.ene.pdf)
+El documento puede encontrarse en: [Aquí](Proyecto.25.ene.pdf)
 
 
 
