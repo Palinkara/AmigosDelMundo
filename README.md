@@ -96,7 +96,10 @@ Una comunidad que va a conectar el mundo y dar la posibilidad de intercambiarse,
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+
+Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido
+
+[Trello](./Trello.png)
 
 ### Etapa 1: Ideación de proyecto 
 
