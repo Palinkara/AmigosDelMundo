@@ -51,10 +51,30 @@ La comunidad virtual "Amigos Del Mundo", una comunidad que, como decimos nostros
 
 Muchas gracias por su atención.
 
+---
+
+### Descripción
+
+Creo que todos nosotros conocemos la situación - queremos crear amigos internacionales, conectarnos con el mundo y aprender (también, pero ¡no sólo sobre idiomas y culturas!), pero no funciona. 
+No porque no intentamos - estamos seguros que todos nos que buscamos conocer gente estamos muy activos en las Redes Sociales - pero porque... porque no funciona, porque no hay conexiones entre vosotros que son más que "quiero conocer gente de otros países".
+¡No es así con "Amigos del Mundo"!
+
+En nuestra comunidad cada uno puede - y tiene que - decir desde el primer momento que le interesa. 
+¿Bailar, nadar, hacer esgrima? ¿Puede ser que te gusta ir al cine o jugar ajedrez?
+¡No te preocupes! Aquí tenemos lo todo:
+El momento que escoges tus intereses nuestra comunidad te muestre quién tiene interesas iguales o parecidos - y puedes hablar con ellos desde el primer momento.
+También tenemos canales grupales dónde gente que tiene un interés en común puede discutirlo.
+
+No sólo puedes encontrar gente fácilmente - encuentras amigos.
+Amigos que comparten tus intereses.
+Amigos que te pueden enseñar palabras que necesitas de verdad. 
+(No como algunos libros que piesan que "Yo quiero hablar con el caballo" es más importante que hablar sobre tu hobby favorito.)
+Amigos que puedes adoptar y que te adoptan.
+
 
 ---
 
-### Descripción y acerca de nostros
+### Acerca de nostros
 Vale, ahora vos hemos explicado qué es la nuestra misión, de dónde proviene nuestra idea y qué es nuestro objetive - para nosotros y el mundo.
 ¿Pero quién somos? 
 Nuestro equipo consiste de Bin Liu, Plácido Omar Córcega Caraballo y Polina Rajko y nos hemos encontrado en el Máster de Gestión y Tecnologías de Procesos de Negocio de la Universidad de Granada.
