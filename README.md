@@ -111,6 +111,12 @@ La Ideación (o mejor: Los cinco pasos de Design Thinking) se han hecho en la cl
 
 El documento puede encontrarse en: [Aquí](Proyecto.25.ene.pdf)
 
+Ese paso hemos hecho durante la clase, directamente después de decidir sobre de quién va a consistir nuestro grupo. 
+En este momento ya nosotros más o menos conocimos, pero teníamos ni idea sobre los intereses y hobbies de los otros.
+Por eso hemos comenzado con una pequeña traducción: Cada uno tenía que explicar qué hace (estudia y/o trabaja), qué intereses tiene y qué relación y experiencia tiene con las redes sociales.
+Lo que hemos visto desde el primer momento fue que nadie en nuestro grupo es español. Aunque todos hablamos la misma idioma, nadie de nostros es español o de Granada. Y también otra cosa que todos nosotros teníamos en común - a nos tres nos gusta muchísimo viajar y conocer otras culturas y gente.
+Basado en esto - en el primer paso decidimos que queremos hacer "algo internacional" y "algo para conocer gente y culturas".
+En el primer paso eso fue todo que teníamos.
 
 
 
