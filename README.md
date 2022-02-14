@@ -7,6 +7,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
+![Cabecera - Amigos Del Mundo](./Cabecera.png)
+
 **Titulo** : Amigos Del Mundo
 
 **Autor(es)** : Bin Liu, Plácido Omar Córcega Caraballo, Polina Rajko
