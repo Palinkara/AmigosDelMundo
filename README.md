@@ -120,11 +120,21 @@ En el primer paso eso fue todo que teníamos.
 
 
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+**Investigación de campo (Desk research propuestas inspiradoras para el proyecto)**
+
+Nuestra Investigación consistió de multiples partes:
+Hemos comenzado con lo que sabíamos sobre redes sociales y gente parecida a nosotros.
+Por ejemplo sabíamos que probablemente hay gente en el mundo que quiere viajar y no lo puede (por el Covid, por no tener bastante dinero, por el miedo de no ser entendido...).
+También sabíamos que ya existen diferentes redes sociales para conectar gente: Conocíamos todos Facebook, o WeChat, o Tandem, o HelloTalk, y muchos más.
+En ese momento hemos pensado sobre cómo nosotros podemos diferenciarnos - cómo podemos ser innovativos y interesantes en un mondo donde reina Facebook.
+Para eso hemos utilizado métodos diferentes - hemos utilizado un Business Model Canvas, los sombreros de pensar, hemos creado una persona con sus necesidades y deseos.
+También hemos pensado sobre que siente o quiere una persona hoy en día y hemos creado una Experience Map.
+Basado en uso fuimos capable de encontrar ideas nuevas y posibilidades de diferenciarnos.
+
+Todos los documentos que he nombrado se pueden encontrar [Aquí](Proyecto.25.ene.pdf).
+
+Pero en el siguiente vamos a trabajar por grandes partes con el Business Model Canvas, porque es muy intuitivo y contiene todos los informaciones que necesitamos.
 
 
 **Necesidad/oportunidad** 
