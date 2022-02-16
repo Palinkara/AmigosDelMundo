@@ -19,6 +19,7 @@ Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistade
 
 **logotipo** :  ![Amigos Del Mundo](./Amigos.png)
 ![CC](./by-nc-sa.eu.png width=100)
+<img src="./by-nc-sa.eu.png" width="100" height="100">
 
 **Slogan** : Conectamos el mundo - dos amigos a la vez.
 
