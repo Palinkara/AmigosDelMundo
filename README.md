@@ -18,7 +18,7 @@ Nosotros somos el equipo "Amigos Del Mundo" y nuestro objetivo es conectar gente
 Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistades internacionales - "Amigos del Mundo" es vuestra solución.
 
 **logotipo** :  ![Amigos Del Mundo](./Amigos.png)
-![CC](./by-nc-sa.eu.png | width=100)
+![CC](./by-nc-sa.eu.png width=100)
 
 **Slogan** : Conectamos el mundo - dos amigos a la vez.
 
