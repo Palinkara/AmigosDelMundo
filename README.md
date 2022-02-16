@@ -17,7 +17,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 Nosotros somos el equipo "Amigos Del Mundo" y nuestro objetivo es conectar gente. Nosotros queremos hacer posible conectar con gente en este tiempo duro y crear amistades para toda la vida.
 Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistades internacionales - "Amigos del Mundo" es vuestra solución.
 
-<img src="./Amigos.png" width="10%" height="70%">
+**Logotipo** :
+<img src="./Amigos.png" width="80%" height="80%">
 <img src="./by-nc-sa.eu.png" width="10%" height="10%">
 
 **Slogan** : Conectamos el mundo - dos amigos a la vez.
@@ -102,13 +103,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido
 
-<img src="./Trello.png" width="10%" height="40%">
+<img src="./Trello.png" width="40%" height="40%">
 
 ### Etapa 1: Ideación de proyecto 
 
 La Ideación (o mejor: Los cinco pasos de Design Thinking) se han hecho en la clase presencial de la asignatura 24: "Inteligencia colectiva y la formación en las empresas".
 
-<img src="./DesignThinking.jpg" width="10%" height="40%">
+<img src="./DesignThinking.jpg" width="40%" height="40%">
 
 El documento puede encontrarse en: [Aquí](Proyecto.25.ene.pdf)
 
