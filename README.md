@@ -34,7 +34,7 @@ Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistade
 
 *  :octocat: https://github.com/Palinkara/AmigosDelMundo 
 * Twitter 
-* Instagram: _ amigosdelmundo _ (sin espacios)
+* Instagram: https://www.instagram.com/_amigosdelmundo_/
 
 ---
 
