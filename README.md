@@ -140,6 +140,18 @@ Pero en el siguiente vamos a trabajar por grandes partes con el Business Model C
 
 
 **Necesidad/oportunidad** 
+Analizando las necesidades y oportunidades hemos visto, que con la fronteras cerradas, con las restricciones de contacto y generalmente con el Covid, hay muchísima gente que se siente sola. No se puede encontrarse como antes, especialmente en países donde las restricciones obligan la gente a reducir el contacto con otra gente y salir lo menos posible.
+También sabemos que en muchos casos o la frontera con otros países está cerrada o que la gente no tiene el dinero para trabajar, pero depende del lugar, viajar puede ser muy caro.
+Pero el humano queda siendo una creatura social para sentirse bien y tener una buena salud mental.
+
+Por esto hemos decidido de crear nuestra Comunidad.
+Ahora se puede preguntar que nos hace tan especial que la gente elige nosotros en vez de por ejemplo Facebook.
+Eso es muy fácil a explicar porque nosotros queremos centrarnos en dos cosas:
+
+1. Queremos ser internacional y vamos a dar toda la ayuda posible para facilitar el contacto entre países y culturas. Vamos a incluir moderatores multilinguas que saben manejar problemas de idiomas y van a ayudar si haya malentendidos en algunos casos.
+2. Queremos conectar gente con intereses parecidos. Por eso hemos dicho que cada uno debe incluir por lo menos un interés cuando entra en la comunidad para que nosotros podemos ayudarle encontrar gente con intereses parecidos.
+
+Eso va a diferenciar nosotros de otras plataformas que a) no se centran en la internacionalidad y/o b) no ayudan a la gente encontrar gente con intereses parecidos, y eso va a ser nuestra fortaleza y posibilidad.
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
