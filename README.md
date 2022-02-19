@@ -140,6 +140,7 @@ Pero en el siguiente vamos a trabajar por grandes partes con el Business Model C
 
 
 **Necesidad/oportunidad** 
+
 Analizando las necesidades y oportunidades hemos visto, que con la fronteras cerradas, con las restricciones de contacto y generalmente con el Covid, hay muchísima gente que se siente sola. No se puede encontrarse como antes, especialmente en países donde las restricciones obligan la gente a reducir el contacto con otra gente y salir lo menos posible.
 También sabemos que en muchos casos o la frontera con otros países está cerrada o que la gente no tiene el dinero para trabajar, pero depende del lugar, viajar puede ser muy caro.
 Pero el humano queda siendo una creatura social para sentirse bien y tener una buena salud mental.
