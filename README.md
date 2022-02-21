@@ -164,9 +164,22 @@ Eso va a diferenciar nosotros de otras plataformas que a) no se centran en la in
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Antes de comenzar con el prototipado, definimos un diseño general.
+Para eso hemos utilizado el diseño del prototipo que teníamos un poco más temprano que el resto y por el cual hemos obtenido una muy buena reacción.
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+Nuestro logotipo (que se puede encontrar en la explicación de arriba) consiste en un fondo amarillo que atrae atención, incluye el mundo (porque queremos mostrar que nosotros hacemos posible conectar el mundo) y dos textos: "Amigos del Mundo" (el nombre de nuestra comunidad) y "Adopta tu amigo" (nuestro slogan). 
+Además hemos decidido añadir un azúl oscuro porque tiene un contrasto muy bonito con el amarillo.
+
+También - de la perspectiva psícologica - nos gusta que así tenemos un color muy activador (el amarillo) y un color que da calma (el azúl) en un lugar.
+El blanco y el negro que también utilizamos en algunos casos son neutral.
+
+Basado en eso también hemos creado la cabezera (también se puede encontrar en la explicación de arriba) y un moodboard.
+
+* Imagen visual (Moodboard) y Canvas
+
+<img src="./Trello.png" width="100%" height="100%">
+
+El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no necesitan atribución).
 
 * redes sociales (...) 
 
