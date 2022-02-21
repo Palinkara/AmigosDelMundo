@@ -154,7 +154,12 @@ Eso es muy fácil a explicar porque nosotros queremos centrarnos en dos cosas:
 
 Eso va a diferenciar nosotros de otras plataformas que a) no se centran en la internacionalidad y/o b) no ayudan a la gente encontrar gente con intereses parecidos, y eso va a ser nuestra fortaleza y posibilidad.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta**
+
+Como ya descrito - la motivación principal en este proyecto es que a nosotros nos gustaría mucho participar en una comunidad como la que hemos creado. 
+Nosotros estámos agradecidos de tener la posibilidad de estar y estudiar al extranjero, en Granada, y de conocer gente y idiomas. También sabemos que muchísima gente sólo no tiene esa posibilidad - ellos no pueden viajar porque les falta dinero, conocimientos y porque las fronteras de sus países están cerradas.
+Porque nosotros queremos compartir la posibilidad que tenemos, hemos pensado de crear "Amigos Del Mundo".
+Así la gente puede conectarse desde su casa, hablar con gente del otro parte del mundo y adoptar amigos.
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
