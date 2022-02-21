@@ -203,10 +203,10 @@ El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no ne
 #### Campaña de Crowdfunding
 
 
+
+### Los desarrollaremos en ocho pasos:
+
 En primer lugar, aprender todos los detalles y escenarios que se contemplan en una campaña de financiación colectiva “Crowdfunding” estudiando los materiales impartidos en clases y otros artículos especializados. Además, de entrevistar y aprender de otros que han tenido experiencias anteriores.
-
-Los desarrollaremos en ocho pasos:
-
 En segundo lugar, Planificación del Proyecto, definir los objetivos, alcances, metas y las fases del proyecto de la comunidad digital “Amigos del Mundo”. Asimismo, la visión, misión, el monto a recaudar, costes y recompensas, identificar las tareas y delegar entre los socios, integrantes de la comunidad digital “Amigos del Mundo” cada tarea.
 En tercer lugar, una vez generado el proyecto determinar el mensaje y hacer una precampaña con vídeos, emisiones en directo en todas las redes sociales, por correo electrónico, apoyándome en nuestra lista de contactos, amigos, compañeros de estudios, de trabajo, docentes, y familiares para redistribuir el enlace de las promoción.
 En cuarto lugar, iniciar la precampaña y aplicar el plan de promoción de la idea de negocio y del producto a desarrollar. En esta fase se requiere crear confianza en el público captado mediante la precampaña para despertar en ellos el interés y ganarlos como potenciales donantes del proyecto.
