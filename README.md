@@ -200,7 +200,7 @@ El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no ne
 
 ### Conclusiones y trabajo futuro
 
-## Campaña de Crowdfunding
+#### Campaña de Crowdfunding
 
 
 En primer lugar, aprender todos los detalles y escenarios que se contemplan en una campaña de financiación colectiva “Crowdfunding” estudiando los materiales impartidos en clases y otros artículos especializados. Además, de entrevistar y aprender de otros que han tenido experiencias anteriores.
