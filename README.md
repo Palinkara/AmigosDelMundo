@@ -177,7 +177,7 @@ Basado en eso también hemos creado la cabezera (también se puede encontrar en 
 
 * Imagen visual (Moodboard) y Canvas
 
-<img src="./moodboard.png" width="100%" height="100%">
+<img src="./Moodboard.png" width="100%" height="100%">
 
 El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no necesitan atribución).
 
