@@ -103,7 +103,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido/amigos-del-mundo
 
-<img src="./Trello.jpg" width="60%" height="60%">
+<img src="./Trello.png" width="60%" height="60%">
 
 ### Etapa 1: Ideación de proyecto 
 
