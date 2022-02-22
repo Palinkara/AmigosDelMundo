@@ -101,9 +101,9 @@ Una comunidad que va a conectar el mundo y dar la posibilidad de intercambiarse,
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
-Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido
+Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido/amigos-del-mundo
 
-<img src="./Trello.png" width="60%" height="60%">
+<img src="./Trello.jpg" width="60%" height="60%">
 
 ### Etapa 1: Ideación de proyecto 
 
