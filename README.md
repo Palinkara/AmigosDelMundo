@@ -193,9 +193,9 @@ Por las razones anteriores, nuestro grupo tiene la intención de crear una comun
 
 
 #### El Valor de nuestro proyecto
-1.Nuestro contenido es en base de los disntintos interes de usuario y sus deseos de que quiere producir mas relacion con el mundo mas grande y positivo.
-2.nos ofrecemos un plataforma que hay un ambiente armoniso. los sentimientos de confianza y aceptacion es  mas  importante
-3.Usuario de diferentes regiones,culturas,edad... al aspecto mas importante es la mayoria de ellos son receptivos.Esto es propicio para la formación de valor comunitario.
+1. Nuestro contenido es en base de los disntintos interes de usuario y sus deseos de que quiere producir mas relacion con el mundo mas grande y positivo.
+2. Nos ofrecemos un plataforma que hay un ambiente armoniso. los sentimientos de confianza y aceptacion es  mas  importante
+3. Usuario de diferentes regiones,culturas,edad... al aspecto mas importante es la mayoria de ellos son receptivos.Esto es propicio para la formación de valor comunitario.
 
 
 #### Objetivo directo
