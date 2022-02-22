@@ -215,7 +215,7 @@ Inevitablemente tenemos que interactuar con sitios web y aplicaciones con propie
 Debido a la naturaleza de la comunidad, generalmente no brindamos publicidad explícita, pero brindamos productos cuidadosamente seleccionados en función del contenido de cada canal y la aceptación del usuario.Los productos colocados de esta manera serán relativamente precisos y los usuarios los aceptarán más fácilmente. Las categorías de productos deben relacionarse con el contenido de nuestra comunidad, deben ser productos que los usuarios estén interesados y necesiten.
 
 
-#### Unas ideas complemmentas
+#### Unas ideas complementarias
 
 1.	Coopere con algunas plataformas educativas para introducir algunos cursos, después de todo, esta no es solo una comunidad de comunicación, sino que todos necesitan aprender más sobre lo que les interesa.
 2.	Damos bienvenida e invitamremos algunas personas influyentes a experimentar nuestra comunidad y marque especialmente sus identidades después de que ingresen a la comunidad.
