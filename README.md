@@ -186,11 +186,49 @@ Basado en eso también hemos creado la cabezera (también se puede encontrar en 
 
 El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no necesitan atribución).
 
-* redes sociales (...) 
+#### Protocolo:
+Hace mucho tiempo que el mundo eliminó la distancia entre las personas que viven en todo el mundo a través de la tecnología, pero la sensación de distancia en los corazones de las personas es el mayor distanciamiento.
+Aunque el mundo se ha inundado con una gran cantidad de software social, tales problemas aún existen, y los prejuicios y la desconfianza siguen siendo los principales problemas en la relación. 
+Por las razones anteriores, nuestro grupo tiene la intención de crear una comunidad experimental. Nos centraremos principalmente en la positividad del contenido y la armonía de la comunidad.Esto da como resultado una mejor experiencia para los usuarios de la comunidad.Nuestro valor proviene de reunir a los usuarios más positivos y mostrarlos en la comunidad.
 
-* publicidad: banner (... ) 
 
-* ...
+#### El Valor de nuestro proyecto
+1.Nuestro contenido es en base de los disntintos interes de usuario y sus deseos de que quiere producir mas relacion con el mundo mas grande y positivo.
+2.nos ofrecemos un plataforma que hay un ambiente armoniso. los sentimientos de confianza y aceptacion es  mas  importante
+3.Usuario de diferentes regiones,culturas,edad... al aspecto mas importante es la mayoria de ellos son receptivos.Esto es propicio para la formación de valor comunitario.
+
+
+#### Objetivo directo
+Inevitablemente tenemos que interactuar con sitios web y aplicaciones con propiedades similares. Pero nuestro objetivo principal es que cuando una persona quiera conectarse más con otras personas sobre un tema determinado, entre en nuestra comunidad.
+
+
+#### Estrategia Futura
+1.	Crearemos diferentes categorías de módulos según las diferentes necesidades de los usuarios y sus propias condiciones e intereses.El boca a boca de una comunidad en la etapa inicial puede determinar su entorno futuro (qué tipo de personas fluirán y su impacto en la comunidad)
+2.	No queremos tener un gran número de clientes al principio, lo que nos quitará la posibilidad de optimizar al máximo en un tiempo limitado.Atraeremos más personal técnico y community managers a medida que crezca el número.
+3.	Dada la gran cantidad de canales diferentes y el lento tiempo de producción de contenido de calidad, nuestra etapa inicial atraerá a más usuarios que estén dispuestos a comentar.
+4.	Al mismo tiempo, no queremos que esta comunidad solo chatee y pase el tiempo.Por eso en el canal correspondiente, invitaremos a algunos profesionales para que den algunas orientaciones sobre el contenido y la dirección.
+5.	Cree desafíos de cuestionarios y registros de actividad en los usuarios del canal correspondiente para aumentar el entusiasmo y la lealtad de los usuarios.
+6.	Cree tantos emojis e interacciones como sea posible para permitir que los usuarios se comuniquen entre idiomas.
+
+
+#### Publicidad
+Debido a la naturaleza de la comunidad, generalmente no brindamos publicidad explícita, pero brindamos productos cuidadosamente seleccionados en función del contenido de cada canal y la aceptación del usuario.Los productos colocados de esta manera serán relativamente precisos y los usuarios los aceptarán más fácilmente. Las categorías de productos deben relacionarse con el contenido de nuestra comunidad, deben ser productos que los usuarios estén interesados y necesiten.
+
+
+#### Unas ideas complemmentas
+
+1.	Coopere con algunas plataformas educativas para introducir algunos cursos, después de todo, esta no es solo una comunidad de comunicación, sino que todos necesitan aprender más sobre lo que les interesa.
+2.	Damos bienvenida e invitamremos algunas personas influyentes a experimentar nuestra comunidad y marque especialmente sus identidades después de que ingresen a la comunidad.
+3.	No se tolerará la discriminación ni el comportamiento ilgal.Reclamación de derechos de autor sobre el contenido del usuario
+4.	Los contribuyentes activos al tema correspondiente y los más populares votados por todos son recompensados y alentados con invitaciones a eventos.
+
+#### Plan de social media
+
+En un principio lo promocionaremos en la Universidad de Granada, porque nuestros compañeros también son de todo el mundo, ya través de sus ensayos y sugerencias optimizaremos aún más la comunidad.
+Al mismo tiempo, estableceremos cuentas oficiales en las principales aplicaciones sociales para promocionar nuestro contenido. Nuestro sitio web también utiliza herramientas de SEO para llamar la atención.
+El comienzo de la comunidad fue difícil porque había muchas aplicaciones similares y algunas aplicaciones sociales formaban un monopolio.
+Cómo hacer que nuestra comunidad sea reconocible será un tema importante, presentaremos el intercambio de diferentes regiones y culturas, y al mismo tiempo con funciones sociales básicas. Preferimos crear una red de relaciones cooperativas con otras aplicaciones de diferentes categorías. Al mismo tiempo, establezca la identidad social en el proceso de servir a los usuarios, para esperar que su propia comunidad gane una buena reputación.
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
