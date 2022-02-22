@@ -272,6 +272,10 @@ En octavo lugar, reunión de evaluación con los socios, informar y agradecer a 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+### Landing Page
+
+https://pcorcega.github.io/AmigosMundo-2122-ICFE/
+
 
 Referencias y recursos: 
 
