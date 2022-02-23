@@ -188,7 +188,7 @@ El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no ne
 
 * Icono
 
-<img src="./Icono.png" width="70%" height="70%">
+<img src="./Icono.jpeg" width="70%" height="70%">
 
 También hemos creado un icono para compartir la aplicación en diferentes lugares.
 Eso icono es basado en la tierra del logotipo y muestra que vamos a conectar el mundo.
