@@ -276,6 +276,8 @@ En octavo lugar, reunión de evaluación con los socios, informar y agradecer a 
 
 https://github.com/PCorcega/AmigosMundo-2122-ICFE
 
+https://pcorcega.github.io/AmigosMundo-2122-ICFE/
+
 
 Referencias y recursos: 
 
