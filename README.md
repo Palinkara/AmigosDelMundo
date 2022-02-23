@@ -291,7 +291,9 @@ https://pcorcega.github.io/AmigosMundo-2122-ICFE/
 Nosotros hemos creado una presentación.
 
 <img src="./Presentation.png" width="20%" height="20%">
+
 La presentación (en PDF) está aquí
+
 Y el vídeo está [Aquí](Amigos%20del%20Mundo%20-%201.mp4)
 
 
