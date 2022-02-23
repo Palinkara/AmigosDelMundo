@@ -293,6 +293,7 @@ Nosotros hemos creado una presentación.
 <img src="./Presentation.png" width="40%" height="40%">
 
 La presentación (en PDF) [Aquí](Amigos%20del%20Mundo%20.pdf)
+.
 
 Y el vídeo está [Aquí](Amigos%20del%20Mundo%20-%201.mp4)
 
