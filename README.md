@@ -186,6 +186,13 @@ Basado en eso también hemos creado la cabezera (también se puede encontrar en 
 
 El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no necesitan atribución).
 
+* Icono
+
+<img src="./Icono.png" width="70%" height="70%">
+
+También hemos creado un icono para compartir la aplicación en diferentes lugares.
+Eso icono es basado en la tierra del logotipo y muestra que vamos a conectar el mundo.
+
 #### Protocolo:
 Hace mucho tiempo que el mundo eliminó la distancia entre las personas que viven en todo el mundo a través de la tecnología, pero la sensación de distancia en los corazones de las personas es el mayor distanciamiento.
 Aunque el mundo se ha inundado con una gran cantidad de software social, tales problemas aún existen, y los prejuicios y la desconfianza siguen siendo los principales problemas en la relación. 
@@ -277,6 +284,15 @@ En octavo lugar, reunión de evaluación con los socios, informar y agradecer a 
 https://github.com/PCorcega/AmigosMundo-2122-ICFE
 
 https://pcorcega.github.io/AmigosMundo-2122-ICFE/
+
+### Presentación y vídeo
+
+Última cosa que hemos hecho en este tiempo:
+Nosotros hemos creado una presentación.
+
+<img src="./Presentation.png" width="20%" height="20%">
+La presentación (en PDF) está aquí
+Y el vídeo está [Aquí](Amigos%20del%20Mundo%20-%201.mp4)
 
 
 Referencias y recursos: 
