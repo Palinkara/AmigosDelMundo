@@ -232,7 +232,7 @@ Debido a la naturaleza de la comunidad, generalmente no brindamos publicidad exp
 #### Plan de social media
 
 ### Misión
-Hacer que las personas del mundo puedan encontrar verdaderos amigos y conectarlos con personas de otras latitudes, para que sean más amables, amorosos, resilientes, fuertes, que tengan identidad y descubran su propósito a través de la verdaderas relaciones, impulsando la salud mental a través de renovación del entendimiento.
+Hacer que las personas del mundo puedan encontrar verdaderos amigos y conectarlos con personas de otras latitudes, para que sean más amables, amorosos, resilientes, fuertes, que tengan identidad y descubran su propósito a través de verdaderas relaciones interpersonales, impulsando la salud mental a través de renovación del entendimiento.
 
 En un principio lo promocionaremos en la Universidad de Granada, porque nuestros compañeros también son de todo el mundo, ya través de sus ensayos y sugerencias optimizaremos aún más la comunidad.
 Al mismo tiempo, estableceremos cuentas oficiales en las principales aplicaciones sociales para promocionar nuestro contenido. Nuestro sitio web también utiliza herramientas de SEO para llamar la atención.
