@@ -232,7 +232,13 @@ Debido a la naturaleza de la comunidad, generalmente no brindamos publicidad exp
 #### Plan de social media
 
 ### Misión
-Hacer que las personas del mundo puedan encontrar verdaderos amigos y conectarlos con personas de otras latitudes, para que sean más amables, amorosos, resilientes, fuertes, que tengan identidad y descubran su propósito a través de verdaderas relaciones interpersonales, impulsando la salud mental a través de renovación del entendimiento.
+Hacer que las personas del mundo puedan encontrar verdaderos amigos y conectarlos con personas de otras latitudes, para satisfacer su necesidad de compañía mediante la interacción permanente en la práctica de principios y valores como el amor, la honestidad, el respeto de manera que sean resilientes, fuertes, que se ayuden a descubrir su identidad y su propósito de vida, impulsando la salud mental a través de renovación del entendimiento.
+
+### Objetivos:
+1. Incrementar el conocimiento de nuestra comunidad digital (marca) a través de nuestra página web para que sea reconocida por los usuarios que buscan amistades verdadera y suplan su necesidad de soledad.
+2. Generar comunidad en redes sociales: Desarrollar la comunidad digital sólida en las redes sociales, promoviendo participación masiva de interrelaciones de calidad e iteraciones permanentes.
+3. Generar tráfico a la página web mediante la gestión SEO que nos permita posicionarnos en los principales motores de búsqueda y en las redes sociales.
+4. Provocar amistades genuinas y duraderas mediante las iteraciones de las interrelaciones personales permanentes de ususarios que anhelan cubrir su necesidad de compañía.
 
 En un principio lo promocionaremos en la Universidad de Granada, porque nuestros compañeros también son de todo el mundo, ya través de sus ensayos y sugerencias optimizaremos aún más la comunidad.
 Al mismo tiempo, estableceremos cuentas oficiales en las principales aplicaciones sociales para promocionar nuestro contenido. Nuestro sitio web también utiliza herramientas de SEO para llamar la atención.
