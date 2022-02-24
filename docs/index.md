@@ -1,3 +1,10 @@
+## AmigosDelMundo
+Un sitio para presentar nuestra OnlineComunidad - los Amigos del Mundo! Conectamos el mundo.
+
+Proyecto de Inteligencia Colectiva y Formación en la Empresa 
+[Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
+ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Palinkara/AmigosDelMundo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
