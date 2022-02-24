@@ -7,6 +7,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
+![Cabecera - Amigos Del Mundo](./cabeceraNueva.png)
+
 **Titulo** : Amigos Del Mundo
 
 **Autor(es)** : Bin Liu, Plácido Omar Córcega Caraballo, Polina Rajko
@@ -16,6 +18,8 @@ Nosotros somos el equipo "Amigos Del Mundo" y nuestro objetivo es conectar gente
 Si tenéis ganas de aprender - sobre gente, países, culturas - y crear amistades internacionales - "Amigos del Mundo" es vuestra solución.
 
 **Logotipo** :
+<img src="./Amigos.png" width="20%" height="20%">
+<img src="./by-nc-sa.eu.png" width="10%" height="10%">
 
 **Slogan** : Conectamos el mundo - dos amigos a la vez.
 
@@ -99,11 +103,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/Gs27Lido/amigos-del-mundo
 
+<img src="./Trello.png" width="60%" height="60%">
 
 ### Etapa 1: Ideación de proyecto 
 
 La Ideación (o mejor: Los cinco pasos de Design Thinking) se han hecho en la clase presencial de la asignatura 24: "Inteligencia colectiva y la formación en las empresas".
 
+<img src="./DesignThinking.jpg" width="60%" height="60%">
 
 El documento puede encontrarse en: [Aquí](Proyecto.25.ene.pdf)
 
@@ -128,6 +134,7 @@ Para eso hemos utilizado métodos diferentes - hemos utilizado un Business Model
 También hemos pensado sobre que siente o quiere una persona hoy en día y hemos creado una Experience Map.
 Basado en uso fuimos capable de encontrar ideas nuevas y posibilidades de diferenciarnos.
 
+Todos los documentos que he nombrado se pueden encontrar [Aquí](Proyecto.25.ene.pdf).
 
 Pero en el siguiente vamos a trabajar por grandes partes con el Business Model Canvas, porque es muy intuitivo y contiene todos los informaciones que necesitamos.
 
@@ -175,11 +182,13 @@ Basado en eso también hemos creado la cabezera (también se puede encontrar en 
 
 * Imagen visual (Moodboard) y Canvas
 
+<img src="./Moodboard.png" width="70%" height="70%">
 
 El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no necesitan atribución).
 
 * Icono
 
+<img src="./Icono.jpeg" width="20%" height="20%">
 
 También hemos creado un icono para compartir la aplicación en diferentes lugares.
 Eso icono es basado en la tierra del logotipo y muestra que vamos a conectar el mundo.
@@ -291,6 +300,12 @@ https://pcorcega.github.io/AmigosMundo-2122-ICFE/
 Última cosa que hemos hecho en este tiempo:
 Nosotros hemos creado una presentación.
 
+<img src="./Presentation.png" width="40%" height="40%">
+
+La presentación (en PDF) [Aquí](Amigos%20del%20Mundo.pdf)
+.
+
+Y el vídeo está [Aquí](Amigos%20del%20Mundo%20-%201.mp4)
 
 
 Referencias y recursos: 
