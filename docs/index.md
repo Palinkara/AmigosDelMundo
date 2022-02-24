@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/Palinkara/AmigosDelMundo/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# AmigosDelMundo
+Un sitio para presentar nuestra OnlineComunidad - los Amigos del Mundo! Conectamos el mundo.
+
+Proyecto de Inteligencia Colectiva y Formación en la Empresa 
+[Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
+ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
