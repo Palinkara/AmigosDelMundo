@@ -7,8 +7,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-![Cabecera - Amigos Del Mundo](./Cabecera8.png)
-Cabecera Amigos del Mundo C:\Users\lilac\OneDrive\Documentos\Plácido\Universidad Granada\Máster GTYPN\Inteligencia Colectiva Y Formación en las Empresas
+![Cabecera - Amigos Del Mundo](./Cabecera.png)
 
 **Titulo** : Amigos Del Mundo
 
