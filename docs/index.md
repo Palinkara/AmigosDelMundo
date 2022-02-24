@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Palinkara/AmigosDelMundo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# AmigosDelMundo
+## AmigosDelMundo
 Un sitio para presentar nuestra OnlineComunidad - los Amigos del Mundo! Conectamos el mundo.
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa 
