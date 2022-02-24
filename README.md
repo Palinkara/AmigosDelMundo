@@ -5,6 +5,8 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa
 [Master en Gestión y Tecnologías de Procesos de Negocio](https://masteres.ugr.es/mbagestiontic/)
 ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada  
 
+https://palinkara.github.io/AmigosDelMundo/
+
 ----
 
 ![Cabecera - Amigos Del Mundo](./cabeceraNueva.png)
