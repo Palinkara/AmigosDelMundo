@@ -7,7 +7,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-![Cabecera - Amigos Del Mundo](./cabecera2.png)
+![Cabecera - Amigos Del Mundo](./cabeceraNueva.png)
 
 **Titulo** : Amigos Del Mundo
 
