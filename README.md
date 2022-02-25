@@ -321,20 +321,6 @@ La presentación (en PDF) [Aquí](Amigos%20del%20Mundo.pdf)
 
 Y el vídeo está [Aquí](Amigos%20del%20Mundo%20-%201.mp4)
 
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
-
-
-
-
-
-
 ----
 
 **Referencias y recursos utilizados** :
@@ -343,9 +329,5 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* Imagenes son o creados por nosotros o de Pixabay.
+* Todas otros cosas son creadas por nosotros.
