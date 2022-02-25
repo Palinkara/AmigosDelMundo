@@ -194,6 +194,14 @@ El moodboard fue creado con las plantillas de Canva y imagenes de Pixabay (no ne
 También hemos creado un icono para compartir la aplicación en diferentes lugares.
 Eso icono es basado en la tierra del logotipo y muestra que vamos a conectar el mundo.
 
+#### Protipado
+
+El prototipo (y la versión final también) vamos a crear con la aplicación "Discord" (https://discord.com). 
+Esa aplicación facilmente nos hace capaz crear una comunidad virtual y todos los canales y chats necesarios. También es posible crear un chat de voz o compartir vídeos con audio. Porque hemos pensado que eso puede ser muy útil para nuestros usuarios y algunos de nosotros ya forman parte de comunidades virtual en Discord (por ejemplo para aprender el Chino), hemos pensado, que eso sería perfecto para nosotros. 
+
+Vamos a útilizar un diseño basado en nuestro Moodboard.
+Tenemos que pensar y discutir que icono o logotipo vamos a utilizar.
+
 #### Protocolo:
 Hace mucho tiempo que el mundo eliminó la distancia entre las personas que viven en todo el mundo a través de la tecnología, pero la sensación de distancia en los corazones de las personas es el mayor distanciamiento.
 Aunque el mundo se ha inundado con una gran cantidad de software social, tales problemas aún existen, y los prejuicios y la desconfianza siguen siendo los principales problemas en la relación. 
@@ -232,10 +240,10 @@ Debido a la naturaleza de la comunidad, generalmente no brindamos publicidad exp
 
 #### Plan de social media
 
-### Misión
+#### Misión
 Hacer que las personas del mundo puedan encontrar verdaderos amigos y conectarlos con personas de otras latitudes, para satisfacer su necesidad de compañía mediante la interacción permanente en la práctica de principios y valores como el amor, la honestidad, el respeto de manera que sean resilientes, fuertes, que se ayuden a descubrir su identidad y su propósito de vida, impulsando la salud mental a través de renovación del entendimiento.
 
-### Objetivos:
+#### Objetivos:
 1. Incrementar el conocimiento de nuestra comunidad digital (marca) a través de nuestra página web para que sea reconocida por los usuarios que buscan amistades verdadera y suplan su necesidad de soledad.
 2. Generar comunidad en redes sociales: Desarrollar la comunidad digital sólida en las redes sociales, promoviendo participación masiva de interrelaciones de calidad e iteraciones permanentes.
 3. Generar tráfico a la página web mediante la gestión SEO que nos permita posicionarnos en los principales motores de búsqueda y en las redes sociales.
@@ -249,16 +257,20 @@ Cómo hacer que nuestra comunidad sea reconocible será un tema importante, pres
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Nosotros vamos a basar nuestro proyecto en el diseño centrado en el usuario. Gracias a los clases que teníamos en nuestros grados hemos aprendido que es importante que el usuario puede compartir su opinión desde el principio.
 
-* Test con usuarios (...) 
-* ... 
+Para darle esa posibilidad, queremos comenzar con algunas entrevistas con gente de que nosotros sabemos que probablemente está interesada en un proyecto como esto. También queremos hacer cuestionarios cada vez que vamos despliegar una nueva versión.
 
-
-
-
+Para decisiones importantes vamos a elegir gente que va a hacer un Walkthrough "Thinking Aloud" que nos da la posibilidad de comprender nosotros usuarios.
 
 ### Conclusiones y trabajo futuro
+
+Una de nuestras conclusiones: Trabajar en equipo online es más difícil que lo hemos esperado, pero podíamos superarlo.
+También hemos aprendido que una ideación muy "simple" con al principio puede traernos a ideas muy interesantes.
+Al fin hemos aprendido diferentes técnicas de crear y compartir contenido sin poner algunos derechos en peligro.
+
+En el futuro vamos a displiegar un servidor en Discord, prepar y compartir nuestro contenido y vamos a invitar gente (los que nos conocen y los que encuentran nuestras páginas fan).
+Si todo va bien - y ganamos informaciones interesantes atras las entrevistas - esperamos que la comunidad va a crear rápidamente y nosotros lograremos crear una comunidad de amigos del mundo, adoptando amigos.
 
 #### Campaña de Crowdfunding
 
@@ -282,12 +294,13 @@ En septimo lugar, iniciar la campaña propiamente dicha, con la experiencia de l
 
 En octavo lugar, reunión de evaluación con los socios, informar y agradecer a todos los donantes de las metas alcanzadas, entregar las recompensas, publicar a los medios de comunicación masiva y hacer lo propio en las redes sociales de los resultados obtenidos y de los pasos que se seguirán.
 
+#### Plantillas
+
+**FAQ:** Hola! Esperamos que te gusta nuestra sociedad. Tienes preguntas que sobre nuestra comunidad que no puedes encontrar aquí? No es un problema! Aquí tienes nuestra página FAQ donde todos tus preguntas van a ser respondidas! Y si no? No te preocupes! Preguntasnos todo lo que tú quieras por nosotros contactos xxx y yyy.
+
+**Newsletter:** Estás interesado en nuestro proyecto y quieres aprender más y recibir avisos cuando nosotros compartimos versiones nuevas? Sin problema! Aquí tienes nuestro Newsletter - para que tú siempre sabes lo más actual!
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 ### Landing Page
 
